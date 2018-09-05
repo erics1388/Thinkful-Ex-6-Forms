@@ -1,0 +1,80 @@
+body{
+	background-color: #3e7fd7;
+}
+
+/*this is the logo*/
+
+img {
+	height: 35px;
+	display: block;
+	margin-top:25px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*this is the form*/
+
+form{
+	width: 320px;
+    margin-top: 29px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    padding: 40px;
+    background-color: #ffffff;
+}
+
+
+h1{
+	font-size: 30px;
+    font-family: arial, sans-serif;
+    color: #646363;
+    text-align: center;
+}
+
+input{
+	width: 320px;
+    border: 2px solid;
+    color: #c5c0c0;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+/*this is the sign up button*/
+
+button  {
+	padding: 15px;
+    margin-top: 10px;
+    width: 100%;
+    height: 55px;
+    border: 2px solid #c5c0c0;
+    border-radius: 5px;
+    color: #f7fcf4;
+    background-color: #50b712;
+}
+
+button:hover {
+	background: #41980b;
+}
+
+/*this is the last link*/
+
+P {
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+a {	
+	color: white;
+}
+
+a:hover{
+	color: #dcd6d6;
+
+}
